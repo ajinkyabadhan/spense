@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#offerLine {
+    background-color: black;
+}
+
+header {
+    background-color: rgb(240, 238, 235);
+}
+
+.getstarted {
+    background-color: black;
+    width: fit-content;
+}
+
+.fw-medium {
+    font-weight: 500;
+}
+
+#tagLine {
+    font-size: 1.3rem;
+}
+
+#inputemail::placeholder {
+    padding-left: 20px;
+}
+
+#secureMobile {
+    background-color: rgb(240, 238, 235);
+}
+
+footer {
+    background-color: black;
+}
+
+.text-grey {
+    color: gray;
+}
+
+.text-grey:hover {
+    color: gray;
+}
